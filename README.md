@@ -78,11 +78,13 @@ api/v1/jwt/create/
 POST
 (не забудьте передать данные пользователя)
 
+```
 api/v1/jwt/refresh/
 ```
 Обновить Ваш JWT-token
 POST
 
+```
 api/v1/jwt/refresh/
 ```
 Проверить Ваш JWT-token
